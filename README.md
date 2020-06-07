@@ -1,3 +1,4 @@
+[![Build Status](https://glaypopcorn18.visualstudio.com/Space%20game%20-%20Web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://glaypopcorn18.visualstudio.com/Space%20game%20-%20Web%20-%20Workflow/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
